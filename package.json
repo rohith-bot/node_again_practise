@@ -1,0 +1,22 @@
+{
+  "name": "ross2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "scripts": {
+    "oneCommand": "node file.js"
+  },
+  "bin": {
+    "oneCommand":"file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohith-bot/node_again_practise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohith-bot/node_again_practise/issues"
+  },
+  "homepage": "https://github.com/rohith-bot/node_again_practise#readme"
+}
